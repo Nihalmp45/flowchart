@@ -1,0 +1,42 @@
+.designing-page {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .content-container {
+    flex: 1 0 50%;
+    margin: 10px;
+  }
+  
+  ul {
+    list-style: disc;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
