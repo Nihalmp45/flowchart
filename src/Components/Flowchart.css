@@ -2,7 +2,7 @@ h1{
   font-family: 'Courier New', Courier, monospace;
 }
   .card {
-    width: 300px; /* Adjust the width as needed */
+    width: 25vw; /* Adjust the width as needed */
     background: linear-gradient(to bottom, #f9f9f9, #df8bd4);
     border: 1px solid #050000;
     border-radius: 10px;
